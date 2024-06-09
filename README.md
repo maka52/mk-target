@@ -8,6 +8,9 @@
 
 - 4: Go into the server console and do 'restart qb-target' OR restart your server
 
+## Screenshots
+![Target](https://i.imgur.com/mYja6n1.png)
+
 ## Credits
 
 * This was a edit QBCore Script so here is the original with the credits in the original script [https://github.com/qbcore-framework/qb-target]
